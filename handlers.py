@@ -291,17 +291,17 @@ def register_handlers(app: Client):
         buttons = InlineKeyboardMarkup([
             [
                 InlineKeyboardButton("Aʙᴏᴜᴛ", callback_data="about"),
-                InlineKeyboardButton("Sᴜᴩᴩᴏʀᴛ", url="https://t.me/clutch008"),
+                InlineKeyboardButton("Sᴜᴩᴩᴏʀᴛ", url="https://t.me/ErrorXAshu"),
             ],
             [
-                InlineKeyboardButton("Dᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/clutch008"),
+                InlineKeyboardButton("Dᴇᴠᴇʟᴏᴩᴇʀ", url="t.me/AshuRajput69"),
             ],
         ])
 
         caption = (
             f"<pre>Hᴇʏᴏ ᴄᴜᴛɪᴇ</pre>\n"
             f"<b><blockquote>›› ɪ’ᴍ ᴀ ʜᴀɴᴅʏ ᴀᴜᴅɪᴏ ꜱᴇʟᴇᴄᴛᴏʀ ʙᴏᴛ ᴍᴀᴅᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ ᴏʀ ʀᴇᴍᴏᴠᴇ ᴀᴜᴅɪᴏ ᴛʀᴀᴄᴋꜱ ꜰʀᴏᴍ ʏᴏᴜʀ ᴠɪᴅᴇᴏꜱ!</b></blockquote>\n"
-            f"<b><blockquote>◈ <a href='https://t.me/clutch008'>ABHI : ᴡʜᴇʀᴇ ᴀʀɪsᴇ</a></b></blockquote>"
+            f"<b><blockquote>◈ <a href='t.me/AshuRajput69'>ABHI : ᴡʜᴇʀᴇ ᴀʀɪsᴇ</a></b></blockquote>"
         )
 
         if START_PIC:
@@ -333,10 +333,10 @@ def register_handlers(app: Client):
 
         about_caption = (
             "<b><blockquote>Hᴇʏ ᴅᴇᴀʀ ᴍʏ ɴᴀᴍᴇ Iuno</b></blockquote>\n"
-            f"<b><blockquote>◈ Oᴡɴᴇʀ : <a href='https://t.me/clutch008'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n"
-            f"◈ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='https://t.me/clutch008'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n"
-            f"◈ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/+HzquTipfQsA1YWFl'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n"
-            f"◈ Uᴩᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ : <a href='https://t.me/BOTSKINGDOMS'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b></blockquote>"
+            f"<b><blockquote>◈ Oᴡɴᴇʀ : <a href='t.me/AshuRajput69'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n"
+            f"◈ Dᴇᴠᴇʟᴏᴩᴇʀ : <a href='t.me/AshuRajput69'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n"
+            f"◈ Mᴀɪɴ Cʜᴀɴɴᴇʟ : <a href='https://t.me/ErrorXAshu'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n"
+            f"◈ Uᴩᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ : <a href='https://t.me/ErrorXAshu'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b></blockquote>"
         )
 
         await callback_query.message.edit_media(
@@ -366,17 +366,17 @@ def register_handlers(app: Client):
         main_buttons = InlineKeyboardMarkup([
             [
                 InlineKeyboardButton("Aʙᴏᴜᴛ", callback_data="about"),
-                InlineKeyboardButton("Sᴜᴩᴩᴏʀᴛ", url="https://t.me/clutch008"),
+                InlineKeyboardButton("Sᴜᴩᴩᴏʀᴛ", url="t.me/AshuRajput69"),
             ],
             [
-                InlineKeyboardButton("Dᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/clutch008"),
+                InlineKeyboardButton("Dᴇᴠᴇʟᴏᴩᴇʀ", url="t.me/AshuRajput69"),
             ],
         ])
 
         main_caption = (
             f"<pre>Hᴇʏᴏ ᴄᴜᴛɪᴇ</pre>\n"
             f"<b><blockquote>›› ɪ’ᴍ ᴀ ʜᴀɴᴅʏ ᴀᴜᴅɪᴏ ꜱᴇʟᴇᴄᴛᴏʀ ʙᴏᴛ ᴍᴀᴅᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴄʜᴏᴏꜱᴇ ᴏʀ ʀᴇᴍᴏᴠᴇ ᴀᴜᴅɪᴏ ᴛʀᴀᴄᴋꜱ ꜰʀᴏᴍ ʏᴏᴜʀ ᴠɪᴅᴇᴏꜱ!</b></blockquote>\n"
-            f"<b><blockquote>◈ <a href='https://t.me/clutch008'>ABHI : ᴡʜᴇʀᴇ ᴀʀɪsᴇ</a></b></blockquote>"
+            f"<b><blockquote>◈ <a href='t.me/AshuRajput69'>ABHI : ᴡʜᴇʀᴇ ᴀʀɪsᴇ</a></b></blockquote>"
         )
 
         if START_PIC:
