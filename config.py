@@ -7,8 +7,8 @@
 import os
 
 # Telegram API credentials
-API_ID =   # Replace with your API ID
-API_HASH = ""  # Replace with your API Hash
+API_ID = "23480065"  # Replace with your API ID
+API_HASH = "32edb7d7fc1523b436109bff8ea061fc"  # Replace with your API Hash
 BOT_TOKEN = ""  # Replace with your Bot Token
 
 # ----------------------------------------
@@ -33,13 +33,13 @@ ALLOWED_GROUP_IDS = [
 ]
 
 # Owner user ID
-OWNER_ID =   # Owner's user ID
+OWNER_ID =  "8489271683" # Owner's user ID
 
 # Maximum file size (e.g., 4GB)
 MAX_FILE_SIZE = 4 * 1024 * 1024 * 1024  # 4GB in bytes
 
 # Premium users and daily limits
-PREMIUM_USERS = {5756495153}  # Add premium user IDs here
+PREMIUM_USERS = {8489271683}  # Add premium user IDs here
 DAILY_LIMIT_FREE = 15  # Videos per day for free users
 DAILY_LIMIT_PREMIUM = 30  # Videos per day for premium users
 
